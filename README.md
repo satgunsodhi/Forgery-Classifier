@@ -1,6 +1,6 @@
 # Signature Recognition Model
 
-CNN Implementation here: https://github.com/satgunsodhi/Forgery-Classifier-CNN[https://github.com/satgunsodhi/Forgery-Classifier-CNN]
+CNN Implementation here: https://github.com/satgunsodhi/Forgery-Classifier-CNN
 
 ## Executive Summary
 
